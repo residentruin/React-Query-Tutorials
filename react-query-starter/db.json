@@ -2,7 +2,7 @@
   "superheroes": [
     {
       "id": 1,
-      "name": "Batman",
+      "name": "Batman1",
       "alterEgo": "Bruce Wayne"
     },
     {
@@ -12,7 +12,24 @@
     },
     {
       "id": 3,
-      "name": "Wonder Woman",
+      "name": "Wonder Woman 1",
+      "alterEgo": "Princess Diana"
+    }
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Happy Birthday",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Purple Rain",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "7 Nation Army",
       "alterEgo": "Princess Diana"
     }
   ]
